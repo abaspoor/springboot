@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS 'sportscenter';
+CREATE DATABASE IF NOT EXISTS `sportscenter`;
 
-Use 'sportscenter';
+Use `sportscenter`;
 
 DROP TABLE IF EXISTS Brand;
 DROP TABLE IF EXISTS Type;
