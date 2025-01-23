@@ -1,7 +1,8 @@
-package com.ecomerce.sportscenter.repository;
+package com.ecomerce.sportscenter.service;
 
 import com.ecomerce.sportscenter.entity.Type;
 import com.ecomerce.sportscenter.model.TypeResponse;
+import com.ecomerce.sportscenter.repository.TypeRepository;
 import com.ecomerce.sportscenter.service.TypeService;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Service;

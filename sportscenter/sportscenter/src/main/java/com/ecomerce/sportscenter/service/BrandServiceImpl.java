@@ -1,4 +1,4 @@
-package com.ecomerce.sportscenter.repository;
+package com.ecomerce.sportscenter.service;
 
 import com.ecomerce.sportscenter.model.BrandResponse;
 import com.ecomerce.sportscenter.service.BrandService;
